@@ -8,3 +8,4 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 add_compile_options(-Wall -Wextra -Wpedantic)
 
 add_subdirectory(ch01-basics)
+add_subdirectory(ch02-user-defined-types)
