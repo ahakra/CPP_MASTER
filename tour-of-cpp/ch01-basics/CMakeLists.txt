@@ -1,0 +1,2 @@
+add_executable(ch01_basics main.cpp)
+target_compile_features(ch01_basics PRIVATE cxx_std_20)
