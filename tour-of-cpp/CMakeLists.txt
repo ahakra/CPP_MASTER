@@ -9,3 +9,4 @@ add_compile_options(-Wall -Wextra -Wpedantic)
 
 add_subdirectory(ch01-basics)
 add_subdirectory(ch02-user-defined-types)
+add_subdirectory(ch05-classes)
